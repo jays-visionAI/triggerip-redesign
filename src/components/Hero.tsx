@@ -56,7 +56,7 @@ export default function Hero() {
         >
           당신의 투자를
           <br />
-          <span className="gradient-text">引领</span>하는 파트너
+          <span className="gradient-text">이끌</span>하는 파트너
         </motion.h1>
 
         {/* Subtitle */}

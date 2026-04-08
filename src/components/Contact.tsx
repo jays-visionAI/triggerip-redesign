@@ -6,7 +6,7 @@ import './Contact.css';
 const offices = [
   {
     name: '강남본부',
-    address: '서울특별시 강남区 테헤란로 123, 15층',
+    address: '서울특별시 강남구 테헤란로 123, 15층',
     phone: '+82-2-2038-2456',
     email: 'gangnam@triggerip.com',
   },

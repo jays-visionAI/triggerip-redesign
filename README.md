@@ -1,34 +1,46 @@
-# 트리거투자파트너스 리디자인 프로젝트
+# 🚀 트리거투자파트너스 (Trigger IP Partners)
 
-## 프로젝트 개요
-에너지틱하고 힙한 다크 테마로 재구현한 트리거투자파트너스 홈페이지
+에너지틱하고 힙한 디자인으로리를 Redesign한 버전입니다.
 
-## 기술 스택
-- React 18 + TypeScript
-- Vite
-- Framer Motion (애니메이션)
-- react-scroll
+## 🌐 Live Preview
 
-## 디자인 시스템
-- Primary Background: #0a0a0f
-- Accent Color: #c8ff00 (Electric Lime)
-- Secondary Accent: #00ff88 (Mint)
-- Font: Space Grotesk, Noto Sans KR
+Deploy 완료 후 URL이 여기에 추가됩니다.
 
-## 섹션
-1. Header - 고정 네비게이션
-2. Hero - 애니메이션 배경, 파티클 효과
-3. About - 회사 소개, 비전/미션, 타임라인
-4. Services - 6가지 서비스 카드
-5. Portfolio - 투자사례, ROI 시각화
-6. News - 뉴스룸
-7. Contact - 문의 양식, 오FFICe 정보
-8. Footer
+## 📦 Tech Stack
 
-## 실행 명령
-```bash
-cd triggerip-redesign
-npm install
-npm run dev    # 개발 서버
-npm run build  # 프로덕션 빌드
+- **Framework**: React + Vite
+- **Styling**: CSS Modules
+- **Animation**: Framer Motion
+- **Language**: TypeScript
+
+## 🎨 Features
+
+- Modern & Energetic Design
+- Smooth Animations
+- Responsive Layout
+- Interactive Components
+
+## 🚀 Deploy
+
+이 프로젝트는 **Vercel**에 배포되어 있습니다.
+
+### Manual Deploy 방법:
+
+1. [https://vercel.com](https://vercel.com) → Login with GitHub
+2. **Import Project** 클릭
+3. `jays-visionAI/triggerip-redesign` 선택
+4. **Deploy** 클릭
+
+### 설정 (自動 적용됨):
+
+```json
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite"
+}
 ```
+
+## 📝 License
+
+MIT

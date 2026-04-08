@@ -50,7 +50,7 @@ const milestones = [
   { year: '2018', event: '트리거투자파트너스 설립' },
   { year: '2020', event: '강남본부 개소, 투자 포트폴리오 확대' },
   { year: '2022', event: '세종본사 이전, 조직 확장이전' },
-  { year: '2024', event: '500번째 투자 달성里程碑' },
+  { year: '2024', event: '500번째 투자 달성' },
 ];
 
 export default function About() {

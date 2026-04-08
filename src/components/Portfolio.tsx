@@ -7,7 +7,7 @@ const cases = [
   {
     category: 'FinTech',
     title: 'PayNext Korea',
-    description: '차세대 결제 플랫폼으로 2024년 기준 100만用户提供突破',
+    description: '차세대 결제 플랫폼으로 2024년 기준 100만 사용자 돌파',
     amount: '50억',
     roi: '+320%',
     status: 'Exit Complete',
@@ -31,7 +31,7 @@ const cases = [
   {
     category: 'E-Commerce',
     title: 'ShopSmart',
-    description: 'AI 추천 엔진 기반 이커머스 플랫폼, MAU 500만突破',
+    description: 'AI 추천 엔진 기반 이커머스 플랫폼, MAU 500만 돌파',
     amount: '40억',
     roi: '+250%',
     status: 'Exit Complete',

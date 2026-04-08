@@ -51,7 +51,7 @@ const services = [
     ),
     title: 'Portfolio Management',
     subtitle: '포트폴리오 관리',
-    description: '투자 후 경영진과 협력하여 전략 수립, 인력 구성, 사업 확장全方位 지원',
+    description: '투자 후 경영진과 협력하여 전략 수립, 인력 구성 사업확장 전방위 지원',
     tags: ['Strategy', 'HR', 'BD'],
   },
   {
@@ -62,7 +62,7 @@ const services = [
     ),
     title: 'Due Diligence',
     subtitle: '실사 지원',
-    description: '전문팀의 상세한 Due Diligence로 리스크最小화, 의사결정质量 보장',
+    description: '전문팀의 상세한 Due Diligence로 리스크를 최소화하고, 의사결정의 품질을 보장합니다.',
     tags: ['Financial', 'Legal', 'Tech'],
   },
   {
@@ -73,7 +73,7 @@ const services = [
     ),
     title: 'Value-Added Service',
     subtitle: '부가서비스',
-    description: '글로벌 네트워크와 파트너십을 통한 홍보, 세일즈, IR全方位 지원',
+    description: '글로벌 네트워크와 파트너십을 통한 홍보, 세일즈, IR 전방위 지원',
     tags: ['PR', 'Sales', 'IR'],
   },
 ];
@@ -101,7 +101,7 @@ export default function Services() {
           </h2>
           <p className="section-desc">
             스타트업의 성장 단계에 맞춘 맞춤 투자 솔루션과
-           附加值 서비스를 제공합니다
+            부가가치 서비스를 제공합니다
           </p>
         </motion.div>
 
@@ -141,7 +141,7 @@ export default function Services() {
         >
           <div className="cta-content">
             <h3>함께 성장할 파트너를 찾고 계신가요?</h3>
-            <p>트러거투자파트너스가 성공적인 투자를導引합니다</p>
+            <p>트리거투자파트너스가 성공적인 투자를 이끌어 드립니다.</p>
           </div>
           <a href="#contact" className="btn btn-primary">
             <span>투자문의</span>
